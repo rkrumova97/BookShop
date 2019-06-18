@@ -1,0 +1,76 @@
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorAssemblyInfo.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorAssemblyInfo.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorTargetAssemblyInfo.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.Views.dll
+R:\Projects\FullStack\BookShop\bin\Debug\netcoreapp2.1\BookShop.Views.pdb
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.TagHelpers.input.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.TagHelpers.output.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorCoreGenerate.cache
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorTargetAssemblyInfo.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.Views.pdb
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CopyComplete
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddBook.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Carousel.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThankYou.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\OrderList.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\BookList.g.cshtml.cs
+R:\Projects\FullStack\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.deps.json
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.json
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.runtimeconfig.dev.json
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.dll
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.pdb
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.Views.dll
+R:\Projects\FullStack\Нова папка\BookShop\bin\Debug\netcoreapp2.1\BookShop.Views.pdb
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.csprojAssemblyReference.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CoreCompileInputs.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorAssemblyInfo.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorAssemblyInfo.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfoInputs.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.AssemblyInfo.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.TagHelpers.input.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.TagHelpers.output.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorCoreGenerate.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddBook.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\BookList.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\OrderList.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThankYou.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Carousel.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Login\Login.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorTargetAssemblyInfo.cache
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.RazorTargetAssemblyInfo.cs
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.Views.pdb
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.dll
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.pdb
+R:\Projects\FullStack\Нова папка\BookShop\obj\Debug\netcoreapp2.1\BookShop.csproj.CopyComplete
